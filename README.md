@@ -2,5 +2,4 @@
 - tech stack: react, node.js, mongodb, express.js
 
 # demo
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U0hSUjQ5Aro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/U0hSUjQ5Aro/0.jpg)](http://www.youtube.com/watch?v=U0hSUjQ5Aro "")
